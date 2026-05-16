@@ -1,0 +1,511 @@
+2026-05-09 16:09:48,291 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,295 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,296 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,298 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,298 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,299 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,299 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,300 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,303 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-05-09 16:09:48,309 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-05-09 16:09:48,310 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,311 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,311 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,311 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,312 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,312 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,314 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,314 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,314 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,314 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,316 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,316 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,316 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,316 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,317 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,317 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,319 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-05-09 16:09:48,319 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,319 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:09:48,319 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:09:48,327 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\91898\AppData\Local\Temp\testng-eclipse--1362558649\testng-customsuite.xml
+
+2026-05-09 16:09:48,340 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2026-05-09 16:09:55,564 INFO t.TC001_AccountRegistrationTest [main] ***Strating**TC001_AccountRegistrationTest****
+2026-05-09 16:09:55,784 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-09 16:09:56,278 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-09 16:09:56,281 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-09 16:09:59,289 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-09 16:09:59,595 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@66596a88: 41 ms
+2026-05-09 16:09:59,596 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@24a298a6: 0 ms
+2026-05-09 16:09:59,601 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@3c89bb12: 4 ms
+2026-05-09 16:09:59,605 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@614aeccc: 4 ms
+2026-05-09 16:09:59,609 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7dd00705: 3 ms
+2026-05-09 16:09:59,609 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@f14e5bf: 0 ms
+2026-05-09 16:22:36,212 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-05-09 16:22:36,217 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,218 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,218 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,219 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,219 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,219 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,220 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,223 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-05-09 16:22:36,230 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-05-09 16:22:36,231 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,232 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,233 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,233 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,233 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,234 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,235 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,235 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,235 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,236 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,237 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,237 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,237 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,237 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,238 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,238 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,239 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,240 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,240 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-09 16:22:36,240 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-09 16:22:36,245 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\91898\AppData\Local\Temp\testng-eclipse--138015103\testng-customsuite.xml
+
+2026-05-09 16:22:36,258 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2026-05-09 16:22:40,672 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-09 16:22:40,819 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-09 16:22:41,207 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-09 16:22:41,209 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-09 16:22:43,454 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-09 16:22:43,803 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@44f3fe83: 36 ms
+2026-05-09 16:22:43,811 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@5965844d: 8 ms
+2026-05-09 16:22:43,819 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@383790cf: 7 ms
+2026-05-09 16:22:43,824 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@40ee0a22: 5 ms
+2026-05-09 16:22:43,830 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@629f066f: 4 ms
+2026-05-09 16:22:43,830 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@1542af63: 0 ms
+2026-05-09 17:25:05,301 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-09 17:25:11,632 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-09 17:25:11,796 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-09 17:25:12,196 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-09 17:25:12,198 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-09 17:25:15,162 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-09 17:25:15,206 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-09 17:34:25,248 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\crossbrowser.xml
+
+2026-05-09 17:34:32,964 INFO t.TC001_AccountRegistrationTest [TestNG-tests-1] ***Starting**TC001_AccountRegistrationTest****
+2026-05-09 17:34:33,239 INFO t.TC001_AccountRegistrationTest [TestNG-tests-1] ***Clicked on My Account Link****
+2026-05-09 17:34:33,794 INFO t.TC001_AccountRegistrationTest [TestNG-tests-1] ***Clicked on Registered Link****
+2026-05-09 17:34:33,798 INFO t.TC001_AccountRegistrationTest [TestNG-tests-1] ***Providing Customer Details****
+2026-05-09 17:34:35,128 INFO t.TC001_AccountRegistrationTest [TestNG-tests-2] ***Starting**TC001_AccountRegistrationTest****
+2026-05-09 17:34:35,347 INFO t.TC001_AccountRegistrationTest [TestNG-tests-2] ***Clicked on My Account Link****
+2026-05-09 17:34:36,354 INFO t.TC001_AccountRegistrationTest [TestNG-tests-1] ***Validating expected message****
+2026-05-09 17:34:36,394 INFO t.TC001_AccountRegistrationTest [TestNG-tests-2] ***Clicked on Registered Link****
+2026-05-09 17:34:36,401 INFO t.TC001_AccountRegistrationTest [TestNG-tests-2] ***Providing Customer Details****
+2026-05-09 17:34:36,481 INFO t.TC001_AccountRegistrationTest [TestNG-tests-1] ***Ending **TC001_AccountRegistrationTest****
+2026-05-09 17:34:38,709 INFO t.TC001_AccountRegistrationTest [TestNG-tests-2] ***Validating expected message****
+2026-05-09 17:34:38,765 INFO t.TC001_AccountRegistrationTest [TestNG-tests-2] ***Ending **TC001_AccountRegistrationTest****
+2026-05-09 17:48:29,004 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-09 17:48:33,432 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-09 17:48:33,567 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-09 17:48:33,969 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-09 17:48:33,969 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-09 17:48:34,965 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-09 17:48:36,256 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-11 10:36:22,847 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-11 10:36:26,911 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-11 10:36:27,048 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-11 10:36:27,443 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-11 10:36:27,450 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-11 10:36:28,450 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-11 10:36:29,581 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-11 10:37:16,230 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-11 10:37:18,360 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-11 10:37:18,495 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-11 10:37:18,879 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-11 10:37:18,879 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-11 10:37:20,520 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-11 10:37:20,563 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-11 10:37:22,462 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-11 10:37:22,834 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-11 10:37:24,060 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-12 10:12:37,614 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-12 10:12:40,909 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-12 10:12:41,040 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-12 10:12:41,469 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-12 10:12:41,469 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-12 10:12:42,359 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-12 10:12:43,803 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-12 10:12:45,796 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-12 10:12:46,357 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-12 10:12:47,430 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-12 10:14:26,096 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-12 10:16:35,686 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-12 10:17:20,613 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-12 10:17:47,391 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,395 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-05-12 10:17:47,397 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,397 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,398 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,398 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,399 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,399 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,404 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-05-12 10:17:47,410 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-05-12 10:17:47,412 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,412 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,413 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,413 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,413 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,413 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,416 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,416 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,416 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,417 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-05-12 10:17:47,419 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,419 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,419 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,419 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,420 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,421 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,422 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,423 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,423 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:17:47,423 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:17:47,430 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\91898\AppData\Local\Temp\testng-eclipse--638290525\testng-customsuite.xml
+
+2026-05-12 10:17:47,445 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-05-12 10:17:47,473 ERROR o.t.i.Utils [main] [Error] org.testng.TestNGException: 
+Method public void testCases.TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String) requires a @DataProvider named : Logindata in class utilities.DataProviders
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:532)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:959)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2026-05-12 10:17:47,588 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@1b2c4efb: 57 ms
+2026-05-12 10:17:47,612 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@319bc845: 24 ms
+2026-05-12 10:17:47,620 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@13e547a9: 7 ms
+2026-05-12 10:17:47,627 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@315f43d5: 6 ms
+2026-05-12 10:17:47,634 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7ac2e39b: 6 ms
+2026-05-12 10:17:47,635 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@78365cfa: 1 ms
+2026-05-12 10:20:49,154 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,159 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-05-12 10:20:49,160 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,160 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,161 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,161 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,162 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,162 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,166 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-05-12 10:20:49,174 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-05-12 10:20:49,176 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,176 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,177 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,177 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,177 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,177 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,179 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,179 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,179 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,180 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,182 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,182 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,182 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,182 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,184 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,184 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,185 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,186 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,186 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:20:49,186 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:20:49,194 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\91898\AppData\Local\Temp\testng-eclipse-1957838522\testng-customsuite.xml
+
+2026-05-12 10:20:49,207 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2026-05-12 10:20:49,944 ERROR o.t.i.Utils [main] [Error] java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 3
+	at utilities.DataProviders.geteData(DataProviders.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:959)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2026-05-12 10:20:50,045 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@5395ea39: 48 ms
+2026-05-12 10:20:50,056 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@6579c3d9: 11 ms
+2026-05-12 10:20:50,067 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@5328a9c1: 10 ms
+2026-05-12 10:20:50,074 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6b580b88: 7 ms
+2026-05-12 10:20:50,080 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1a5b8489: 5 ms
+2026-05-12 10:20:50,080 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@6f8f8a80: 0 ms
+2026-05-12 10:22:25,024 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-05-12 10:22:25,028 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-05-12 10:22:25,030 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,030 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,031 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,031 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,032 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,032 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,035 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-05-12 10:22:25,042 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-05-12 10:22:25,043 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,043 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,044 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,044 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,044 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,044 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,047 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,047 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,047 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,047 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,049 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,049 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,049 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,049 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,050 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,051 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,052 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,052 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,052 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-12 10:22:25,052 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-12 10:22:25,058 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\91898\AppData\Local\Temp\testng-eclipse--1545914825\testng-customsuite.xml
+
+2026-05-12 10:22:25,072 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-05-12 10:22:25,987 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@71178a52: 51 ms
+2026-05-12 10:22:25,999 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@1473b8c0: 11 ms
+2026-05-12 10:22:26,006 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@4bdc8b5d: 7 ms
+2026-05-12 10:22:26,016 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6dd93a21: 9 ms
+2026-05-12 10:22:26,025 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6b3871d6: 8 ms
+2026-05-12 10:22:26,025 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@37095ded: 0 ms
+2026-05-12 10:23:27,613 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-12 10:23:30,939 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-12 10:23:31,071 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-12 10:23:31,460 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-12 10:23:31,460 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-12 10:23:32,587 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-12 10:23:33,883 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-12 10:23:35,600 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-12 10:23:35,926 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-12 10:23:37,168 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-12 10:28:15,558 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-12 10:28:17,551 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-12 10:28:17,638 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-12 10:28:17,956 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-12 10:28:17,956 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-12 10:28:18,673 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-12 10:28:19,708 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-12 10:28:21,425 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-12 10:28:21,756 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-12 10:28:22,862 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-12 10:28:26,859 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-12 10:28:37,663 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-12 10:28:48,312 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-12 10:28:48,322 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-12 10:28:58,929 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-12 22:11:20,394 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\grouping.xml
+
+2026-05-12 22:11:27,669 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-12 22:11:27,793 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-12 22:11:28,288 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-12 22:11:28,292 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-12 22:11:29,186 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-12 22:11:30,569 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-12 22:11:32,309 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-12 22:11:32,637 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-12 22:11:33,884 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-13 10:57:18,965 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\grouping.xml
+
+2026-05-13 10:57:26,029 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-13 10:57:26,143 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-13 10:57:26,508 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-13 10:57:26,512 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-13 10:57:28,130 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-13 10:57:28,170 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-13 10:57:30,579 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-13 10:57:30,961 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-13 10:57:32,270 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-13 11:01:25,173 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\grouping.xml
+
+2026-05-13 11:01:27,411 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-13 11:01:27,526 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-13 11:01:27,870 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-13 11:01:27,873 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-13 11:01:29,643 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-13 11:01:29,699 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-13 11:01:31,449 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-13 11:01:31,998 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-13 11:07:29,261 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\test-output\testng-failed.xml
+
+2026-05-13 11:07:31,798 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-13 11:07:32,187 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-13 11:07:33,410 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-15 11:28:43,595 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-15 11:28:47,452 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-15 11:28:47,608 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-15 11:28:48,010 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-15 11:28:48,014 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-15 11:28:50,459 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-15 11:28:50,528 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-15 11:28:52,535 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-15 11:28:52,863 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-15 11:28:54,410 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-15 11:28:58,582 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-15 11:29:09,863 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-15 11:29:22,668 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-15 11:29:22,674 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-15 11:29:35,407 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-15 11:29:54,344 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-15 11:29:56,771 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-15 11:29:56,932 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-15 11:29:57,762 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-15 11:29:57,762 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-15 11:30:01,258 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-15 11:30:01,346 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-15 11:30:05,288 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-15 11:30:07,958 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-15 11:30:23,588 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-15 11:30:26,663 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-15 11:30:38,560 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-15 11:30:51,272 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-15 11:30:51,278 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-15 11:31:03,935 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-15 11:32:05,670 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Learnings\OpenEcommerceV121\master.xml
+
+2026-05-15 11:32:07,962 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-15 11:32:08,085 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-15 11:32:08,430 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-15 11:32:08,433 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-15 11:32:09,108 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-15 11:32:10,264 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-15 11:32:12,158 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-15 11:32:12,537 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-15 11:32:13,538 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-15 11:32:17,301 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-15 11:32:28,562 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-15 11:32:41,468 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-15 11:32:41,477 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-15 11:32:54,732 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-16 11:27:11,337 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-16 11:27:11,442 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-16 11:27:11,816 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-16 11:27:11,816 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-16 11:27:14,353 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-16 11:27:14,383 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-16 11:27:16,167 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-16 11:27:16,502 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-16 11:27:17,971 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-16 11:27:20,942 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-16 11:27:31,666 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-16 11:27:44,259 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-16 11:27:44,259 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-16 11:27:56,748 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-16 11:46:48,917 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-16 11:46:49,016 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-16 11:46:49,409 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-16 11:46:49,412 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-16 11:46:50,854 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-16 11:46:50,888 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-16 11:46:52,648 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-16 11:46:52,963 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-16 11:46:54,136 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-16 11:46:57,198 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-16 11:47:07,959 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-16 11:47:20,510 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-16 11:47:20,512 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-16 11:47:33,441 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-16 11:52:06,201 INFO t.TC001_AccountRegistrationTest [main] ***Starting**TC001_AccountRegistrationTest****
+2026-05-16 11:52:06,293 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on My Account Link****
+2026-05-16 11:52:06,741 INFO t.TC001_AccountRegistrationTest [main] ***Clicked on Registered Link****
+2026-05-16 11:52:06,741 INFO t.TC001_AccountRegistrationTest [main] ***Providing Customer Details****
+2026-05-16 11:52:07,248 INFO t.TC001_AccountRegistrationTest [main] ***Validating expected message****
+2026-05-16 11:52:09,557 INFO t.TC001_AccountRegistrationTest [main] ***Ending **TC001_AccountRegistrationTest****
+2026-05-16 11:52:11,641 INFO t.TC002_LoginTest [main] *****Starting TC_002 Lgin Test
+2026-05-16 11:52:11,967 INFO t.TC002_LoginTest [main] *****Enter Lgin Page
+2026-05-16 11:52:13,668 INFO t.TC002_LoginTest [main] *****Ending  TC_002 Lgin Test
+2026-05-16 11:52:17,276 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-16 11:52:28,214 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-16 11:52:41,105 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******
+2026-05-16 11:52:41,105 INFO t.TC003_LoginDDT [main] *****Starting TC_003_Login DDT*******
+2026-05-16 11:52:44,349 INFO t.TC003_LoginDDT [main] *****Finished TC_003_Login DDT*******

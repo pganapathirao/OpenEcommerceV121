@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="42.704" tests="5" errors="0" skipped="0" failures="1" flakes="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+    <property name="java.class.path" value="C:\Learnings\OpenEcommerceV121\target\test-classes;C:\Learnings\OpenEcommerceV121\target\classes;C:\Users\91898\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-java\4.43.0\selenium-java-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-api\4.43.0\selenium-api-4.43.0.jar;C:\Users\91898\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.43.0\selenium-chrome-driver-4.43.0.jar;C:\Users\91898\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.43.0\selenium-chromium-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-json\4.43.0\selenium-json-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.43.0\selenium-manager-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v145\4.43.0\selenium-devtools-v145-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v146\4.43.0\selenium-devtools-v146-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v147\4.43.0\selenium-devtools-v147-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.43.0\selenium-edge-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.43.0\selenium-firefox-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-http\4.43.0\selenium-http-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.43.0\selenium-ie-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.43.0\selenium-remote-driver-4.43.0.jar;C:\Users\91898\.m2\repository\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\91898\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\91898\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\91898\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar;C:\Users\91898\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-api\1.60.1\opentelemetry-api-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-context\1.60.1\opentelemetry-context-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-common\1.60.1\opentelemetry-common-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.60.1\opentelemetry-exporter-logging-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.60.1\opentelemetry-sdk-common-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.60.1\opentelemetry-sdk-extension-autoconfigure-spi-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.60.1\opentelemetry-sdk-extension-autoconfigure-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.60.1\opentelemetry-sdk-trace-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.60.1\opentelemetry-sdk-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.60.1\opentelemetry-sdk-metrics-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.60.1\opentelemetry-sdk-logs-1.60.1.jar;C:\Users\91898\.m2\repository\net\bytebuddy\byte-buddy\1.18.8-jdk5\byte-buddy-1.18.8-jdk5.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-os\4.43.0\selenium-os-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.43.0\selenium-safari-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-support\4.43.0\selenium-support-4.43.0.jar;C:\Users\91898\.m2\repository\org\apache\poi\poi\5.5.1\poi-5.5.1.jar;C:\Users\91898\.m2\repository\commons-codec\commons-codec\1.20.0\commons-codec-1.20.0.jar;C:\Users\91898\.m2\repository\org\apache\commons\commons-collections4\4.5.0\commons-collections4-4.5.0.jar;C:\Users\91898\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\91898\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\91898\.m2\repository\org\apache\poi\poi-ooxml\5.5.1\poi-ooxml-5.5.1.jar;C:\Users\91898\.m2\repository\org\apache\poi\poi-ooxml-lite\5.5.1\poi-ooxml-lite-5.5.1.jar;C:\Users\91898\.m2\repository\org\apache\xmlbeans\xmlbeans\5.3.0\xmlbeans-5.3.0.jar;C:\Users\91898\.m2\repository\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\91898\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\91898\.m2\repository\org\apache\logging\log4j\log4j-core\2.26.0\log4j-core-2.26.0.jar;C:\Users\91898\.m2\repository\org\apache\logging\log4j\log4j-api\2.26.0\log4j-api-2.26.0.jar;C:\Users\91898\.m2\repository\org\apache\logging\log4j\log4j-slf4j2-impl\2.26.0\log4j-slf4j2-impl-2.26.0.jar;C:\Users\91898\.m2\repository\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar;C:\Users\91898\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\91898\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\91898\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\91898\.m2\repository\com\aventstack\extentreports\5.1.2\extentreports-5.1.2.jar;C:\Users\91898\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\91898\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\91898\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\91898\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\91898\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\91898\.m2\repository\commons-io\commons-io\2.22.0\commons-io-2.22.0.jar;C:\Users\91898\.m2\repository\org\apache\commons\commons-lang3\3.20.0\commons-lang3-3.20.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\91898\AppData\Local\Temp\surefire13382486851061895949\surefirebooter-20260516115203011_3.jar C:\Users\91898\AppData\Local\Temp\surefire13382486851061895949 2026-05-16T11-52-02_873-jvmRun1 surefire-20260516115203011_1tmp surefire_0-20260516115203011_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Learnings\OpenEcommerceV121\target\test-classes;C:\Learnings\OpenEcommerceV121\target\classes;C:\Users\91898\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-java\4.43.0\selenium-java-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-api\4.43.0\selenium-api-4.43.0.jar;C:\Users\91898\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.43.0\selenium-chrome-driver-4.43.0.jar;C:\Users\91898\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.43.0\selenium-chromium-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-json\4.43.0\selenium-json-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.43.0\selenium-manager-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v145\4.43.0\selenium-devtools-v145-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v146\4.43.0\selenium-devtools-v146-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v147\4.43.0\selenium-devtools-v147-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.43.0\selenium-edge-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.43.0\selenium-firefox-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-http\4.43.0\selenium-http-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.43.0\selenium-ie-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.43.0\selenium-remote-driver-4.43.0.jar;C:\Users\91898\.m2\repository\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\91898\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\91898\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\91898\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar;C:\Users\91898\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-api\1.60.1\opentelemetry-api-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-context\1.60.1\opentelemetry-context-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-common\1.60.1\opentelemetry-common-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.60.1\opentelemetry-exporter-logging-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.60.1\opentelemetry-sdk-common-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.60.1\opentelemetry-sdk-extension-autoconfigure-spi-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.60.1\opentelemetry-sdk-extension-autoconfigure-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.60.1\opentelemetry-sdk-trace-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.60.1\opentelemetry-sdk-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.60.1\opentelemetry-sdk-metrics-1.60.1.jar;C:\Users\91898\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.60.1\opentelemetry-sdk-logs-1.60.1.jar;C:\Users\91898\.m2\repository\net\bytebuddy\byte-buddy\1.18.8-jdk5\byte-buddy-1.18.8-jdk5.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-os\4.43.0\selenium-os-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.43.0\selenium-safari-driver-4.43.0.jar;C:\Users\91898\.m2\repository\org\seleniumhq\selenium\selenium-support\4.43.0\selenium-support-4.43.0.jar;C:\Users\91898\.m2\repository\org\apache\poi\poi\5.5.1\poi-5.5.1.jar;C:\Users\91898\.m2\repository\commons-codec\commons-codec\1.20.0\commons-codec-1.20.0.jar;C:\Users\91898\.m2\repository\org\apache\commons\commons-collections4\4.5.0\commons-collections4-4.5.0.jar;C:\Users\91898\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\91898\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\91898\.m2\repository\org\apache\poi\poi-ooxml\5.5.1\poi-ooxml-5.5.1.jar;C:\Users\91898\.m2\repository\org\apache\poi\poi-ooxml-lite\5.5.1\poi-ooxml-lite-5.5.1.jar;C:\Users\91898\.m2\repository\org\apache\xmlbeans\xmlbeans\5.3.0\xmlbeans-5.3.0.jar;C:\Users\91898\.m2\repository\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\91898\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\91898\.m2\repository\org\apache\logging\log4j\log4j-core\2.26.0\log4j-core-2.26.0.jar;C:\Users\91898\.m2\repository\org\apache\logging\log4j\log4j-api\2.26.0\log4j-api-2.26.0.jar;C:\Users\91898\.m2\repository\org\apache\logging\log4j\log4j-slf4j2-impl\2.26.0\log4j-slf4j2-impl-2.26.0.jar;C:\Users\91898\.m2\repository\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar;C:\Users\91898\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\91898\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\91898\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\91898\.m2\repository\com\aventstack\extentreports\5.1.2\extentreports-5.1.2.jar;C:\Users\91898\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\91898\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\91898\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\91898\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\91898\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\91898\.m2\repository\commons-io\commons-io\2.22.0\commons-io-2.22.0.jar;C:\Users\91898\.m2\repository\org\apache\commons\commons-lang3\3.20.0\commons-lang3-3.20.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\91898"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Learnings\OpenEcommerceV121"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\91898\AppData\Local\Temp\surefire13382486851061895949\surefirebooter-20260516115203011_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
+    <property name="user.name" value="91898"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\91898\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\91898\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.10"/>
+    <property name="user.dir" value="C:\Learnings\OpenEcommerceV121"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\apache-maven-3.9.6\bin;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\91898\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-11\bin;C:\Users\91898\AppData\Local\Programs\Azure Data Studio\bin;C:\Users\91898\AppData\Roaming\npm;C:\Users\91898\AppData\Local\Programs\Microsoft VS Code\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.10+11-LTS-240"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="verify_account_registration" classname="testCases.TC001_AccountRegistrationTest" time="3.379">
+    <system-out><![CDATA[11:52:06.201 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting**TC001_AccountRegistrationTest****
+11:52:06.293 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on My Account Link****
+11:52:06.741 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Registered Link****
+11:52:06.741 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Providing Customer Details****
+11:52:07.248 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message****
+11:52:09.557 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Ending **TC001_AccountRegistrationTest****
+]]></system-out>
+    <system-err><![CDATA[2026-05-16T06:22:03.519828900Z main DEBUG Apache Log4j Core 2.26 initializing configuration XmlConfiguration[location=C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml, lastModified=2025-09-07T06:46:23.016Z]
+2026-05-16T06:22:03.520829400Z main DEBUG PluginManager 'Core' found 134 plugins
+2026-05-16T06:22:03.520829400Z main DEBUG PluginManager 'Level' found 0 plugins
+2026-05-16T06:22:03.524336900Z main DEBUG PluginManager 'Lookup' found 15 plugins
+2026-05-16T06:22:03.526339600Z main DEBUG Building Plugin[name=layout, class=org.apache.logging.log4j.core.layout.PatternLayout].
+2026-05-16T06:22:03.538110Z main DEBUG PluginManager 'TypeConverter' found 26 plugins
+2026-05-16T06:22:03.547669300Z main DEBUG PatternLayout$Builder(pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n", PatternSelector=null, Configuration(C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml), Replace=null, charset="null", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", header="null", footer="null")
+2026-05-16T06:22:03.548648200Z main DEBUG PluginManager 'Converter' found 45 plugins
+2026-05-16T06:22:03.569683700Z main DEBUG Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.ConsoleAppender].
+2026-05-16T06:22:03.575192700Z main DEBUG ConsoleAppender$Builder(target="SYSTEM_OUT", follow="null", direct="null", bufferedIo="null", bufferSize="null", immediateFlush="null", ignoreExceptions="null", PatternLayout(%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n), name="LogToConsole", Configuration(C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml), Filter=null, ={})
+2026-05-16T06:22:03.576195300Z main DEBUG Starting OutputStreamManager SYSTEM_OUT.false.false
+2026-05-16T06:22:03.577193200Z main DEBUG Building Plugin[name=layout, class=org.apache.logging.log4j.core.layout.PatternLayout].
+2026-05-16T06:22:03.577193200Z main DEBUG PatternLayout$Builder(pattern="%d %p %c{1.} [%t] %m%n", PatternSelector=null, Configuration(C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml), Replace=null, charset="null", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", header="null", footer="null")
+2026-05-16T06:22:03.579193100Z main DEBUG Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.FileAppender].
+2026-05-16T06:22:03.581710100Z main DEBUG FileAppender$Builder(fileName="logs/app.log", append="null", locking="null", advertise="null", advertiseUri="null", createOnDemand="null", filePermissions="null", fileOwner="null", fileGroup="null", bufferedIo="null", bufferSize="null", immediateFlush="null", ignoreExceptions="null", PatternLayout(%d %p %c{1.} [%t] %m%n), name="LogToFile", Configuration(C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml), Filter=null, ={})
+2026-05-16T06:22:03.584722Z main DEBUG Starting FileManager logs/app.log
+2026-05-16T06:22:03.584722Z main DEBUG Building Plugin[name=Appenders, class=org.apache.logging.log4j.core.config.AppendersPlugin].
+2026-05-16T06:22:03.585718100Z main DEBUG createAppenders(={LogToConsole, LogToFile})
+2026-05-16T06:22:03.585718100Z main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2026-05-16T06:22:03.588716800Z main DEBUG createAppenderRef(ref="LogToFile", level="null", Filter=null)
+2026-05-16T06:22:03.588716800Z main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2026-05-16T06:22:03.588716800Z main DEBUG createAppenderRef(ref="LogToConsole", level="null", Filter=null)
+2026-05-16T06:22:03.588716800Z main DEBUG Building Plugin[name=Logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
+2026-05-16T06:22:03.590717900Z main DEBUG LoggerConfig$Builder(additivity="false", level="DEBUG", levelAndRefs="null", name="com.mkyong", includeLocation="null", ={LogToFile, LogToConsole}, ={}, Configuration(C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml), Filter=null)
+2026-05-16T06:22:03.591717600Z main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2026-05-16T06:22:03.591717600Z main DEBUG createAppenderRef(ref="LogToConsole", level="null", Filter=null)
+2026-05-16T06:22:03.591717600Z main DEBUG Building Plugin[name=Logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
+2026-05-16T06:22:03.591717600Z main DEBUG LoggerConfig$Builder(additivity="false", level="ERROR", levelAndRefs="null", name="org.springframework.boot", includeLocation="null", ={LogToConsole}, ={}, Configuration(C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml), Filter=null)
+2026-05-16T06:22:03.592838200Z main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2026-05-16T06:22:03.592838200Z main DEBUG createAppenderRef(ref="LogToFile", level="null", Filter=null)
+2026-05-16T06:22:03.592838200Z main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2026-05-16T06:22:03.592838200Z main DEBUG createAppenderRef(ref="LogToConsole", level="null", Filter=null)
+2026-05-16T06:22:03.592838200Z main DEBUG Building Plugin[name=Root, class=org.apache.logging.log4j.core.config.LoggerConfig$RootLogger].
+2026-05-16T06:22:03.593841700Z main DEBUG LoggerConfig$RootLogger$Builder(additivity="null", level="INFO", levelAndRefs="null", includeLocation="null", ={LogToFile, LogToConsole}, ={}, Configuration(C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml), Filter=null)
+2026-05-16T06:22:03.594837500Z main DEBUG Building Plugin[name=Loggers, class=org.apache.logging.log4j.core.config.LoggersPlugin].
+2026-05-16T06:22:03.594837500Z main DEBUG createLoggers(={com.mkyong, org.springframework.boot, root})
+2026-05-16T06:22:03.595837200Z main DEBUG Configuration XmlConfiguration[location=C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml, lastModified=2025-09-07T06:46:23.016Z] initialized
+2026-05-16T06:22:03.595837200Z main INFO Starting configuration XmlConfiguration[location=C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml, lastModified=2025-09-07T06:46:23.016Z]...
+2026-05-16T06:22:03.595837200Z main INFO Configuration XmlConfiguration[location=C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml, lastModified=2025-09-07T06:46:23.016Z] started.
+2026-05-16T06:22:03.597837900Z main INFO Stopping configuration org.apache.logging.log4j.core.config.DefaultConfiguration@5cee5251...
+2026-05-16T06:22:03.597837900Z main DEBUG Shutting down OutputStreamManager SYSTEM_OUT.false.false-1
+2026-05-16T06:22:03.597837900Z main DEBUG OutputStream closed
+2026-05-16T06:22:03.597837900Z main DEBUG Shut down OutputStreamManager SYSTEM_OUT.false.false-1, all resources released: true
+2026-05-16T06:22:03.597837900Z main DEBUG Appender DefaultConsole-1 stopped with status true
+2026-05-16T06:22:03.597837900Z main INFO Configuration org.apache.logging.log4j.core.config.DefaultConfiguration@5cee5251 stopped.
+2026-05-16T06:22:03.599837300Z main DEBUG org.apache.logging.log4j.core.util.SystemClock supports precise timestamps.
+2026-05-16T06:22:03.599837300Z main DEBUG Reconfiguration complete for context[name=73d16e93] at URI C:\Learnings\OpenEcommerceV121\target\test-classes\log4j2.xml (org.apache.logging.log4j.core.LoggerContext@3a44431a) with optional ClassLoader: null
+2026-05-16T06:22:03.599837300Z main DEBUG Shutdown hook enabled. Registering a new one.
+2026-05-16T06:22:03.599837300Z main DEBUG LoggerContext[name=73d16e93, org.apache.logging.log4j.core.LoggerContext@3a44431a] started OK.
+May 16, 2026 11:52:05 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 148, returning the closest version; found: 147; Please update to a Selenium version that supports CDP version 148
+]]></system-err>
+  </testcase>
+  <testcase name="verify_login" classname="testCases.TC002_LoginTest" time="2.028">
+    <system-out><![CDATA[11:52:11.641 [main] INFO  testCases.TC002_LoginTest - *****Starting TC_002 Lgin Test
+11:52:11.967 [main] INFO  testCases.TC002_LoginTest - *****Enter Lgin Page
+11:52:13.668 [main] INFO  testCases.TC002_LoginTest - *****Ending  TC_002 Lgin Test
+]]></system-out>
+    <system-err><![CDATA[May 16, 2026 11:52:10 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 148, returning the closest version; found: 147; Please update to a Selenium version that supports CDP version 148
+]]></system-err>
+  </testcase>
+  <testcase name="verify_loginDDT[pavanoltraining@test.com, test@123, Valid](1)" classname="testCases.TC003_LoginDDT" time="10.937">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:55)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]></failure>
+    <system-out><![CDATA[11:52:17.276 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_Login DDT*******
+]]></system-out>
+    <system-err><![CDATA[May 16, 2026 11:52:14 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 148, returning the closest version; found: 147; Please update to a Selenium version that supports CDP version 148
+]]></system-err>
+  </testcase>
+  <testcase name="verify_loginDDT[pganapathirao1@gmail.com, test@123, Invalid](2)" classname="testCases.TC003_LoginDDT" time="12.891">
+    <system-out><![CDATA[11:52:28.214 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_Login DDT*******
+11:52:41.105 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_Login DDT*******
+]]></system-out>
+  </testcase>
+  <testcase name="verify_loginDDT[pganapathirao2@gmail.com, test@123, Invalid](3)" classname="testCases.TC003_LoginDDT" time="3.247">
+    <system-out><![CDATA[11:52:41.105 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC_003_Login DDT*******
+11:52:44.349 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC_003_Login DDT*******
+]]></system-out>
+  </testcase>
+</testsuite>
